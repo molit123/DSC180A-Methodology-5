@@ -1,6 +1,8 @@
 # Methodology Assignment 5, Task 2
 
-## Name: Mohit Sridhar (msridhar@ucsd.edu), Section: A06, Mentor: Utkrisht Rajkumar
+## Name: Mohit Sridhar (msridhar@ucsd.edu)
+## Section: A06
+## Mentor: Utkrisht Rajkumar
 
 1. **What is the most interesting topic covered in your domain this quarter?**
 
